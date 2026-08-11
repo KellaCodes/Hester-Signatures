@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.2.1",
     "last_updated": "2026-08-11",
     "token_weights": {
         "delve": 2.5,
@@ -37,6 +37,17 @@
         "at its core": 1.6,
         "serve as a reminder": 1.8,
         "paramount": 1.4,
-        "unwavering": 1.6
+        "unwavering": 1.6,
+        "vex": 1.8,
+        "kael": 1.8,
+        "cade": 1.8,
+        "sloane": 1.8,
+        "elara": 1.8,
+        "lyra": 1.8,
+        "silas": 1.8,
+        "thorne": 1.8,
+        "jax": 1.8,
+        "seraphina": 1.8,
+        "orion": 1.8
     }
 }
