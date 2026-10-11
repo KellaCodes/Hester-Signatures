@@ -1,0 +1,3 @@
+
+# Google OAuth client secrets never go in the repo
+client_secret_*.json
